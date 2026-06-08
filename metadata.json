@@ -1,0 +1,6 @@
+{
+  "name": "Coast & Field",
+  "description": "Rooted in California, Coast & Field provides thoughtful, organic ingredients, fresh seasonal produce, and chef-made meals with an embedded AI culinary assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
